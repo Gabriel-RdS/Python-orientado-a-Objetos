@@ -51,3 +51,4 @@ class ContaCorrente:
     @staticmethod
     def codigos_bancos():
         return {'Banco do Brasil': '001', 'Caixa': '104', 'Bradesco': '237'}
+
